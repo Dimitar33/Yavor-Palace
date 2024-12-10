@@ -1,0 +1,9 @@
+.partners-gallery {
+    margin: 2rem;
+    text-align: center;
+}
+
+.partners-gallery a {
+    display: inline-flex;
+    margin: 20px;
+}

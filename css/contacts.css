@@ -1,0 +1,22 @@
+.form li {
+    display: block;
+}
+
+.form {
+    width: 100%;
+}
+
+.form li {}
+
+.contacts-main {
+    display: flex;
+}
+
+.full {
+    width: 100%;
+}
+
+.half {
+    width: 44%;
+    float: left;
+}

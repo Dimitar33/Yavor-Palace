@@ -1,0 +1,36 @@
+.navbar {
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 5rem;
+
+}
+
+.header {
+    height: 40rem;
+    background-image: url('../images/pool.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+.navbar li {
+    text-decoration: none;
+
+}
+
+.navbar a {
+    text-decoration: none;
+    color: rgba(25, 52, 161, 0.95);
+    color: orange;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 6rem;
+    color: yellow;
+}

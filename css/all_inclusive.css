@@ -1,0 +1,14 @@
+.main {
+
+    font-size: 18px;
+    font-family: cursive, sans-serif;
+}
+
+.main li {
+    list-style-type: none;
+}
+
+.main p {
+
+    margin-left: 40px;
+}

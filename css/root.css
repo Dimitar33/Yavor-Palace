@@ -1,0 +1,46 @@
+* {
+    box-sizing: inherit;
+}
+
+body {
+
+    margin: 1rem;
+    font-size: 100%;
+    background-color: rgba(240, 255, 80, 0.785);
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    font-family: cursive, sans-serif;
+}
+
+.about-section {
+    overflow: hidden;
+    margin: 20px 0;
+    padding: 0;
+}
+
+.about-section p {
+
+    margin: 0;
+}
+
+
+.floating-img {
+
+    float: right;
+    height: 20rem;
+    width: 40rem;
+    margin: 0 0 20px 10px;
+    overflow: hidden;
+}
+
+.floating-img-left {
+
+    float: left;
+    height: 20rem;
+    width: 40rem;
+    margin-right: 10px;
+}
